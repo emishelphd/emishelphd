@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @emishelphd
 - 👀 I’m interested in research
-- 🌱 I’m currently learning how to use GitHub :)
 
 
 <!---
